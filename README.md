@@ -1,2 +1,2 @@
 # Linkedin-Navebar
-Navbar only visible when for mobile screens and fixed.
+Navbar only visible for mobile screens and is also fixed.
